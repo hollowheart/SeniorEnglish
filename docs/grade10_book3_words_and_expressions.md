@@ -2,13 +2,13 @@
 
 > 教材：人教版高中英语必修第三册
 > 来源：附录 Words and Expressions in Each Unit（教材第 102–108 页）
-> 总词量：**428** 个（单词 + 短语 + 专有名词）
+> 总词量：**431** 个（单词 + 短语 + 专有名词）
 
 注：黑体部分为课标词和短语；白体部分为非课标词；专有名词在每单元词表后面单独列出。
 
 ---
 
-## Unit 1 Festivals and Celebrations（96 个）
+## Unit 1 Festivals and Celebrations（95 个）
 
 | 序号 | 单词/短语 | 音标 | 中文意思 |
 |---:|---|---|---|
@@ -41,77 +41,76 @@
 | 27 | fade | /feɪd/ | vi. & vt. 逐渐消失;（使）褪色;（身体）变得虚弱 |
 | 28 | typical | /ˈtɪpɪkl/ | adj. 典型的;有代表性的;平常的 |
 | 29 | firecracker | /ˈfeɪɪəˌkrækə(r)/ | n. 鞭炮;爆竹 |
-| 30 | evil | /ˈiːvl/ | adj. 邪恶的;有害的;罪恶的 n. 邪恶;罪恶;恶行 |
-| 31 | in spite of | /speɪɪt/ | 不管;尽管 |
-| 32 | commercial | /kəˈmɜːʃl/ | adj. 商业（化）的;以获利为目的的 |
-| 33 | commercialise | /kəˈmɜːʃəleɪɪz/ | vt. 使商业化;利用……牟利 |
-| 34 | commercialisation | /kəˌmɜːʃəleɪɪˈzeɪʃn/ | n. 商业化 |
-| 35 | medium | /ˈmiːdiəm/ | n. 媒介;手段;方法 adj. 中等的;中号的 |
-| 36 | reflect | /rɪˈflekt/ | vt. 显示;反映;反射 |
-| 37 | belief | /bɪˈliːf/ | n. 信仰;信心;信任 |
-| 38 | faith | /feɪθ/ | n. 宗教信仰;信任;相信 |
-| 39 | atmosphere | /ˈætməsfiːə(r)/ | n. 气氛;氛围;（地球的）大气（层） |
-| 40 | eve | /iːv/ | n. 前夕;前一天 |
-| 41 | envelope | /ˈenvələʊp/ | n. 信封;塑料封套 |
-| 42 | the media | — | 大众传播媒介 |
-| 43 | dress (sb) up | — | 穿上盛装；装扮 |
-| 44 | make-up | — | n. 化妆品；性格；构成方式 |
-| 45 | range from ... to ... | — | 包括从……到……之间 |
-| 46 | fade away | — | 逐渐消失；（身体）变得虚弱 |
-| 47 | take advantage of | — | 利用；欺骗；占……的便宜 |
-| 48 | have sth in common | — | （兴趣、想法等方面）相同；有相同的特征 |
-| 49 | after all | — | 毕竟；别忘了 |
-| 50 | Christmas carol | /ˈkærəl/ | 圣诞颂歌 |
-| 51 | pumpkin | /ˈpʌmpkɪn/ | n. 南瓜 |
-| 52 | pudding | /ˈpʊdɪŋ/ | n. 布丁;（餐末的）甜食 |
-| 53 | mashed potatoes | /mæʃt/ | 土豆泥 |
-| 54 | roast | /rəʊst/ | adj. 烤的;焙的 vi. & vt. 烘烤;焙 |
-| 55 | turkey | /ˈtɜːki/ | n. 火鸡;火鸡肉 |
-| 56 | pleased | /pliːzd/ | adj. 高兴的;满意的 |
-| 57 | firework | /ˈfeɪɪəwɜːk/ | n. 烟火;烟花;［pl.］烟花表演 |
-| 58 | frank | /fræŋk/ | adj. 坦率的;直率的 |
-| 59 | inner | /ˈɪnə(r)/ | adj. 内部的;里面的;内心的 |
-| 60 | autonomous | /ɔːˈtɒnəməs/ | adj. 自治的;有自治权的 |
-| 61 | region | /ˈriːdʒən/ | n. 地区;区域;地带 |
-| 62 | lunar | /ˈluːnə(r)/ | adj. 阴历的;月球的;月亮的 |
-| 63 | represent | /reprɪˈzent/ | vt. 象征;代表;相当于 |
-| 64 | wrestling | /ˈreslɪŋ/ | n. 摔跤运动 |
-| 65 | wrestle | /ˈresl/ | vi. & vt. 摔跤;奋力对付 |
-| 66 | wrestler | /ˈreslə(r)/ | n. 摔跤运动员 |
-| 67 | archery | /ˈɑːtʃəri/ | n. 射箭术;射箭运动 |
-| 68 | fancy | /ˈfænsi/ | adj. 花哨的;精致的;昂贵的 vt. 想要;倾慕;自认为是 |
-| 69 | robe | /rəʊb/ | n. 袍服;礼袍 |
-| 70 | eagle | /ˈiːgl/ | n. 雕 |
-| 71 | grace | /greɪs/ | n. 优美;优雅;高雅 |
-| 72 | absolutely | /ˈæbsəluːtli/ | adv. 绝对地;完全地 |
-| 73 | moment | /ˈməʊmənt/ | n. 片刻;瞬间 |
-| 74 | tent | /tent/ | n. 帐篷 |
-| 75 | pot | /pɒt/ | n. 罐;壶;锅 |
-| 76 | brief | /briːf/ | adj. 简洁的;简单的;短暂的 |
-| 77 | branch | /brɑːntʃ/ | n. 树枝;分支;支流 |
-| 78 | wedding | /ˈwedɪŋ/ | n. 婚礼;结婚庆典 |
-| 79 | clap | /klæp/ | vt. 鼓掌;拍手;击掌 n. 鼓掌;拍手;掌声 |
-| 80 | respect | /rɪsˈpekt/ | n. & vt. 尊敬;尊重 |
-| 81 | horrible | /ˈhɒrəbl/ | adj. 令人震惊的;恐怖的;极坏的 |
-| 82 | Rio | /ˈriːəʊ/ | （全称 Rio de Janeiro -ri:@U d@ dZ@ˈnI@r@U-）里约热内卢（巴西城市） |
-| 83 | Carla | /ˈkɑːlə/ | 卡拉 |
-| 84 | Halloween | /hæləʊˈiːn/ | 万圣节前夕 |
-| 85 | Thanksgiving | /θæŋksˈgɪvɪŋ/ | (Day) 感恩节 |
-| 86 | La Tomatina | /lɑːtəʊmɑːˈtɪnɑː/ | 番茄大战 |
-| 87 | the Naadam Festival Festival | /ˈnɑːdəm/ | 那达慕大会 |
-| 88 | Inner Mongolia Autonomous Region | /mɒŋˈgəʊliə/ | 内蒙古自治区 |
-| 89 | Mongolian | /mɒŋˈgəʊliən/ | adj. 蒙古人的;蒙古的;蒙古语的 n. 蒙古语;蒙古人 |
-| 90 | estival | — | 那达慕大会 |
-| 91 | roast turkey | — | 烤火鸡肉 |
-| 92 | Merry Christmas! | — | 圣诞快乐！ |
-| 93 | to be frank | — | 坦白说；坦率地说 |
-| 94 | go off | — | 爆炸；走火；离开 |
-| 95 | except for | — | 除……之外 |
-| 96 | set off | — | 出发；动身；启程 |
+| 30 | commercial | /kəˈmɜːʃl/ | adj. 商业（化）的;以获利为目的的 |
+| 31 | commercialise | /kəˈmɜːʃəleɪɪz/ | vt. 使商业化;利用……牟利 |
+| 32 | commercialisation | /kəˌmɜːʃəleɪɪˈzeɪʃn/ | n. 商业化 |
+| 33 | medium | /ˈmiːdiəm/ | n. 媒介;手段;方法 adj. 中等的;中号的 |
+| 34 | reflect | /rɪˈflekt/ | vt. 显示;反映;反射 |
+| 35 | belief | /bɪˈliːf/ | n. 信仰;信心;信任 |
+| 36 | faith | /feɪθ/ | n. 宗教信仰;信任;相信 |
+| 37 | atmosphere | /ˈætməsfiːə(r)/ | n. 气氛;氛围;（地球的）大气（层） |
+| 38 | eve | /iːv/ | n. 前夕;前一天 |
+| 39 | envelope | /ˈenvələʊp/ | n. 信封;塑料封套 |
+| 40 | the media | — | 大众传播媒介 |
+| 41 | dress (sb) up | — | 穿上盛装；装扮 |
+| 42 | make-up | — | n. 化妆品；性格；构成方式 |
+| 43 | range from ... to ... | — | 包括从……到……之间 |
+| 44 | in spite of | — | 不管；尽管 |
+| 45 | fade away | — | 逐渐消失；（身体）变得虚弱 |
+| 46 | take advantage of | — | 利用；欺骗；占……的便宜 |
+| 47 | have sth in common | — | （兴趣、想法等方面）相同；有相同的特征 |
+| 48 | after all | — | 毕竟；别忘了 |
+| 49 | Christmas carol | /ˈkærəl/ | 圣诞颂歌 |
+| 50 | pumpkin | /ˈpʌmpkɪn/ | n. 南瓜 |
+| 51 | pudding | /ˈpʊdɪŋ/ | n. 布丁;（餐末的）甜食 |
+| 52 | mashed potatoes | /mæʃt/ | 土豆泥 |
+| 53 | roast | /rəʊst/ | adj. 烤的;焙的 vi. & vt. 烘烤;焙 |
+| 54 | turkey | /ˈtɜːki/ | n. 火鸡;火鸡肉 |
+| 55 | pleased | /pliːzd/ | adj. 高兴的;满意的 |
+| 56 | firework | /ˈfeɪɪəwɜːk/ | n. 烟火;烟花;［pl.］烟花表演 |
+| 57 | frank | /fræŋk/ | adj. 坦率的;直率的 |
+| 58 | inner | /ˈɪnə(r)/ | adj. 内部的;里面的;内心的 |
+| 59 | autonomous | /ɔːˈtɒnəməs/ | adj. 自治的;有自治权的 |
+| 60 | region | /ˈriːdʒən/ | n. 地区;区域;地带 |
+| 61 | lunar | /ˈluːnə(r)/ | adj. 阴历的;月球的;月亮的 |
+| 62 | represent | /reprɪˈzent/ | vt. 象征;代表;相当于 |
+| 63 | wrestling | /ˈreslɪŋ/ | n. 摔跤运动 |
+| 64 | wrestle | /ˈresl/ | vi. & vt. 摔跤;奋力对付 |
+| 65 | wrestler | /ˈreslə(r)/ | n. 摔跤运动员 |
+| 66 | archery | /ˈɑːtʃəri/ | n. 射箭术;射箭运动 |
+| 67 | fancy | /ˈfænsi/ | adj. 花哨的;精致的;昂贵的 vt. 想要;倾慕;自认为是 |
+| 68 | robe | /rəʊb/ | n. 袍服;礼袍 |
+| 69 | eagle | /ˈiːgl/ | n. 雕 |
+| 70 | grace | /greɪs/ | n. 优美;优雅;高雅 |
+| 71 | absolutely | /ˈæbsəluːtli/ | adv. 绝对地;完全地 |
+| 72 | moment | /ˈməʊmənt/ | n. 片刻;瞬间 |
+| 73 | tent | /tent/ | n. 帐篷 |
+| 74 | pot | /pɒt/ | n. 罐;壶;锅 |
+| 75 | brief | /briːf/ | adj. 简洁的;简单的;短暂的 |
+| 76 | branch | /brɑːntʃ/ | n. 树枝;分支;支流 |
+| 77 | wedding | /ˈwedɪŋ/ | n. 婚礼;结婚庆典 |
+| 78 | clap | /klæp/ | vt. 鼓掌;拍手;击掌 n. 鼓掌;拍手;掌声 |
+| 79 | respect | /rɪsˈpekt/ | n. & vt. 尊敬;尊重 |
+| 80 | horrible | /ˈhɒrəbl/ | adj. 令人震惊的;恐怖的;极坏的 |
+| 81 | Rio | /ˈriːəʊ/ | （全称 Rio de Janeiro）里约热内卢（巴西城市） |
+| 82 | Carla | /ˈkɑːlə/ | 卡拉 |
+| 83 | Halloween | /hæləʊˈiːn/ | 万圣节前夕 |
+| 84 | Thanksgiving | /θæŋksˈgɪvɪŋ/ | (Day) 感恩节 |
+| 85 | La Tomatina | /lɑːtəʊmɑːˈtɪnɑː/ | 番茄大战 |
+| 86 | the Naadam Festival | /ˈnɑːdəm/ | 那达慕大会 |
+| 87 | Inner Mongolia Autonomous Region | /mɒŋˈgəʊliə/ | 内蒙古自治区 |
+| 88 | Mongolian | /mɒŋˈgəʊliən/ | adj. 蒙古人的;蒙古的;蒙古语的 n. 蒙古语;蒙古人 |
+| 89 | Age Day | — | 成人节 |
+| 90 | roast turkey | — | 烤火鸡肉 |
+| 91 | Merry Christmas! | — | 圣诞快乐！ |
+| 92 | to be frank | — | 坦白说；坦率地说 |
+| 93 | go off | — | 爆炸；走火；离开 |
+| 94 | except for | — | 除……之外 |
+| 95 | set off | — | 出发；动身；启程 |
 
 ---
 
-## Unit 2 Morals and Virtues（49 个）
+## Unit 2 Morals and Virtues（50 个）
 
 | 序号 | 单词/短语 | 音标 | 中文意思 |
 |---:|---|---|---|
@@ -160,14 +159,15 @@
 | 43 | tension | /ˈtenʃn/ | n. 紧张关系;紧张;焦虑 |
 | 44 | the National People's Congress | /ˈkɒŋŋres/ | 全国人民代表大会 |
 | 45 | Henry Norman Bethune | /ˈhenrɪˈnɔːmənbəˈθjuːn/ | 亨利·诺曼·白求恩 |
-| 46 | trip over | — | 被……绊倒 |
-| 47 | in tears | — | 流着泪；含着泪 |
-| 48 | in despair | — | 处于绝望中 |
-| 49 | the OB-GYN department | — | （全称 Department of Obstetrics and Gynecology）妇产科 |
+| 46 | South Pole | — | 北极 / 南极 |
+| 47 | trip over | — | 被……绊倒 |
+| 48 | in tears | — | 流着泪；含着泪 |
+| 49 | in despair | — | 处于绝望中 |
+| 50 | the OB-GYN department | — | （全称 Department of Obstetrics and Gynecology）妇产科 |
 
 ---
 
-## Unit 3 Diverse Cultures（115 个）
+## Unit 3 Diverse Cultures（117 个）
 
 | 序号 | 单词/短语 | 音标 | 中文意思 |
 |---:|---|---|---|
@@ -269,27 +269,29 @@
 | 96 | neat | /niːt/ | adj. 极好的;整洁的;整齐的 |
 | 97 | San Francisco | /sænfrənˈsɪskəʊ/ | 圣弗朗西斯科（旧金山）（美国城市） |
 | 98 | Napa Valley | /næpəˈvæli/ | 纳帕谷（美国） |
-| 99 | Mexico | /ˈmeksɪkəʊ/ | 墨西哥（北美洲国家） |
-| 100 | California | /kælɪˈfɔːniə/ | 加利福尼亚（美国州名） |
-| 101 | Cantonese | /kæntəˈniːz/ | adj. 广东的;粤语的 n. 粤语;广东人 |
-| 102 | the Richmond District | /ˈrɪtʃmənd/ | 里士满区（旧金山） |
-| 103 | Huangguoshu Waterfall | /ˈwɔːtəfɔːl/ | 黄果树瀑布 |
-| 104 | Bank of Canton | /ˈkæntɒn/ | 广东银行 |
-| 105 | the Mission District | — | 教会区（旧金山） |
-| 106 | seek one's fortune | — | 寻找成功致富之路；闯世界 |
-| 107 | apart from | — | （especially NAmE aside from） 除了……外（还）；此外 |
-| 108 | bring about | — | 导致；引起 |
-| 109 | earn a living | — | 谋生 |
-| 110 | head to | — | （朝……）前进；（向……）去 |
-| 111 | to name but a few | — | 仅举几例 |
-| 112 | series of | — | 一系列或一连串（事件） |
-| 113 | (at) first hand | — | 第一手；亲自 |
-| 114 | Portsmouth Square | /ˈpɔːtsməθ/ | 花园角广场（旧金山） |
-| 115 | Robert Louis Stevenson | /ˈrɒbətˈluːiˈstiːvənsən/ | 罗伯特·路易斯·斯蒂文森（英国作家） |
+| 99 | the Golden Gate Bridge | /ˈŋəʊldən/ | 金门桥 |
+| 100 | Mexico | /ˈmeksɪkəʊ/ | 墨西哥（北美洲国家） |
+| 101 | California | /kælɪˈfɔːniə/ | 加利福尼亚（美国州名） |
+| 102 | Cantonese | /kæntəˈniːz/ | adj. 广东的;粤语的 n. 粤语;广东人 |
+| 103 | the Richmond District | /ˈrɪtʃmənd/ | 里士满区（旧金山） |
+| 104 | Huangguoshu Waterfall | /ˈwɔːtəfɔːl/ | 黄果树瀑布 |
+| 105 | Bank of Canton | /ˈkæntɒn/ | 广东银行 |
+| 106 | the Mission District | — | 教会区（旧金山） |
+| 107 | Tin How Temple | — | 天后古庙 |
+| 108 | seek one's fortune | — | 寻找成功致富之路；闯世界 |
+| 109 | apart from | — | （especially NAmE aside from） 除了……外（还）；此外 |
+| 110 | bring about | — | 导致；引起 |
+| 111 | earn a living | — | 谋生 |
+| 112 | head to | — | （朝……）前进；（向……）去 |
+| 113 | to name but a few | — | 仅举几例 |
+| 114 | series of | — | 一系列或一连串（事件） |
+| 115 | (at) first hand | — | 第一手；亲自 |
+| 116 | Portsmouth Square | /ˈpɔːtsməθ/ | 花园角广场（旧金山） |
+| 117 | Robert Louis Stevenson | /ˈrɒbətˈluːiˈstiːvənsən/ | 罗伯特·路易斯·斯蒂文森（英国作家） |
 
 ---
 
-## Unit 4 Space Exploration（90 个）
+## Unit 4 Space Exploration（91 个）
 
 | 序号 | 单词/短语 | 音标 | 中文意思 |
 |---:|---|---|---|
@@ -372,17 +374,18 @@
 | 77 | Yuri Gagarin | /ˈjuːərɪgəˈgɑːrɪn/ | 尤里·加加林（苏联宇航员） |
 | 78 | Neil Armstrong | /ˈniːlˈɑːmstrɒŋ/ | 尼尔·阿姆斯特朗（美国宇航员） |
 | 79 | NASA | /ˈnæsə/ | abbr. National Aeronautics and Space Administration ( 美国 ) 国家航空与航天局 |
-| 80 | Voyager | /ˈvɔɪɪdʒə(r)/ | 1旅行者一号 |
-| 81 | Soyuz | /sɔːˈjʊz/ | 11联盟 11 号 |
-| 82 | Mars | /mɑːz/ | 火星 |
-| 83 | Jupiter | /ˈdʒuːpɪtə(r)/ | 木星 |
-| 84 | the USSR | — | abbr. the Union of Soviet Socialist Republics 苏联 |
-| 85 | the International Space Station | — | 国际空间站 |
-| 86 | tation | — | 国际空间站 |
-| 87 | abbit | — | 玉兔月球车 |
-| 88 | in closing | — | 最后 |
-| 89 | run out | — | 用完；耗尽 |
-| 90 | provide for sb | — | 提供生活所需 |
+| 80 | Voyager | /ˈvɔɪɪdʒə(r)/ | 旅行者一号 |
+| 81 | Soyuz | /sɔːˈjʊz/ | 联盟11号 |
+| 82 | Challenger | /ˈtʃælɪndʒə(r)/ | 挑战者号航天飞机 |
+| 83 | Mars | /mɑːz/ | 火星 |
+| 84 | Jupiter | /ˈdʒuːpɪtə(r)/ | 木星 |
+| 85 | the USSR | — | abbr. the Union of Soviet Socialist Republics 苏联 |
+| 86 | the International Space Station | — | 国际空间站 |
+| 87 | Soviet Socialist Republics | — | 苏联 |
+| 88 | Jade Rabbit | — | 玉兔月球车 |
+| 89 | in closing | — | 最后 |
+| 90 | run out | — | 用完；耗尽 |
+| 91 | provide for sb | — | 提供生活所需 |
 
 ---
 
@@ -399,33 +402,33 @@
 | 7 | narrator | /nəˈreɪtə(r)/ | n.（书、戏剧或电影中的）叙述者;讲述者;（电视 节目中的）幕后解说员 |
 | 8 | narration | /nəˈreɪʃn/ | n. 叙述;讲述;解说 |
 | 9 | bet | /bet/ | n. 打赌;赌注（bet, bet vi. & vt. 下赌注;用……打赌 vt. 敢说 |
-| 10 | spot | /spɒt/ | vt. 看见;注意到;发现 n. 地点;处所;斑点;污迹 |
-| 11 | consulate | /ˈkɒnsjələt/ | n. 领事馆 |
-| 12 | dare | /deə(r)/ | vi. & modal v. 胆敢;敢于 |
-| 13 | sort | /sɔːt/ | n. 种类;类别 |
-| 14 | mining | /ˈmaɪnɪŋ/ | n. 采矿;采矿业 |
-| 15 | patience | /ˈpeɪʃns/ | n. 耐心;忍耐力;毅力 |
-| 16 | ought to | /ɔːt/ | 应该;应当 |
-| 17 | indicate | /ˈɪndɪkeɪt/ | vt. & vi. 表明;显示 vt. 象征;暗示 |
-| 18 | beneath | /bɪˈniːθ/ | adv. & prep. 在（或往）……下面;在……的表面之下 |
-| 19 | postpone | /pəˈspəɜːn/ | vt. 延迟;延期;延缓 |
-| 20 | odd | /ɒd/ | adj. 奇怪的;怪异的;反常的 |
-| 21 | obligation | /ɒblɪˈgeɪʃn/ | n. 义务;职责;责任 |
-| 22 | intention | /ɪnˈtenʃn/ | n. 打算;计划;意图;目的 |
-| 23 | nowhere | /ˈnəʊweə(r)/ | adv. 无处;哪里都不 |
-| 24 | extent | /ɪkˈstent/ | n. 程度;限度;大小;范围 |
-| 25 | opera | /ˈɒprə/ | n. 歌剧 |
-| 26 | musical | /ˈmjuːzɪkl/ | n. 音乐剧 adj. 音乐的 |
-| 27 | dinosaur | /ˈdaɪnəsɔː(r)/ | n. 恐龙 |
-| 28 | hug | /hʌɡ/ | vt. & vi. 拥抱;抱紧 |
-| 29 | pursue | /pəˈsjuː/ | vt. 追求;致力于 |
-| 30 | duty | /ˈdjuːti/ | n. 责任;义务;职责;值班 |
-| 31 | hesitate | /ˈhezɪteɪt/ | vi. 犹豫;迟疑;顾虑 |
-| 32 | sequence | /ˈsiːkwəns/ | vt. 按顺序排列 n. 顺序;一系列 |
-| 33 | eventually | /ɪˈventʃuəli/ | adv. 最后;终于 |
-| 34 | the basis of | — | 在某事的基础上;根据某事 |
-| 35 | apologise | — | 道歉;谢罪 |
-| 36 | nt- | — | 仆人;用人 |
+| 10 | servant | /ˈsɜːvənt/ | n. 仆人;用人 |
+| 11 | sail | /seɪl/ | vi. & vt.（船）航行;（人）乘船航行 |
+| 12 | spot | /spɒt/ | vt. 看见;注意到;发现 n. 地点;处所;斑点;污迹 |
+| 13 | consulate | /ˈkɒnsjələt/ | n. 领事馆 |
+| 14 | dare | /deə(r)/ | vi. & modal v. 胆敢;敢于 |
+| 15 | sort | /sɔːt/ | n. 种类;类别 |
+| 16 | mining | /ˈmaɪnɪŋ/ | n. 采矿;采矿业 |
+| 17 | patience | /ˈpeɪʃns/ | n. 耐心;忍耐力;毅力 |
+| 18 | ought to | /ɔːt/ | 应该;应当 |
+| 19 | indicate | /ˈɪndɪkeɪt/ | vt. & vi. 表明;显示 vt. 象征;暗示 |
+| 20 | beneath | /bɪˈniːθ/ | adv. & prep. 在（或往）……下面;在……的表面之下 |
+| 21 | postpone | /pəˈspəɜːn/ | vt. 延迟;延期;延缓 |
+| 22 | odd | /ɒd/ | adj. 奇怪的;怪异的;反常的 |
+| 23 | obligation | /ɒblɪˈgeɪʃn/ | n. 义务;职责;责任 |
+| 24 | intention | /ɪnˈtenʃn/ | n. 打算;计划;意图;目的 |
+| 25 | nowhere | /ˈnəʊweə(r)/ | adv. 无处;哪里都不 |
+| 26 | extent | /ɪkˈstent/ | n. 程度;限度;大小;范围 |
+| 27 | opera | /ˈɒprə/ | n. 歌剧 |
+| 28 | musical | /ˈmjuːzɪkl/ | n. 音乐剧 adj. 音乐的 |
+| 29 | dinosaur | /ˈdaɪnəsɔː(r)/ | n. 恐龙 |
+| 30 | hug | /hʌɡ/ | vt. & vi. 拥抱;抱紧 |
+| 31 | pursue | /pəˈsjuː/ | vt. 追求;致力于 |
+| 32 | duty | /ˈdjuːti/ | n. 责任;义务;职责;值班 |
+| 33 | hesitate | /ˈhezɪteɪt/ | vi. 犹豫;迟疑;顾虑 |
+| 34 | sequence | /ˈsiːkwəns/ | vt. 按顺序排列 n. 顺序;一系列 |
+| 35 | eventually | /ɪˈventʃuəli/ | adv. 最后;终于 |
+| 36 | the basis of | — | 在某事的基础上;根据某事 |
 | 37 | to be honest | — | 说实话；坦率地说 |
 | 38 | on the basis of | — | 在某事的基础上；根据某事 |
 | 39 | take out a loan | — | 取得贷款 |
